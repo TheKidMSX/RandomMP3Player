@@ -1,0 +1,4 @@
+D:\Projects.svn\deltasoft\trunk\projects\RandomMP3Player\RandomMP3Player\bin\Debug\RandomMP3Player.exe.config
+D:\Projects.svn\deltasoft\trunk\projects\RandomMP3Player\RandomMP3Player\obj\Debug\Interop.WMPLib.dll
+D:\Projects.svn\deltasoft\trunk\projects\RandomMP3Player\RandomMP3Player\obj\Debug\AxInterop.WMPLib.dll
+D:\Projects.svn\deltasoft\trunk\projects\RandomMP3Player\RandomMP3Player\obj\Debug\RandomMP3Player.csproj.ResolveComReference.cache

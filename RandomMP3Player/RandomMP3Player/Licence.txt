@@ -1,0 +1,56 @@
+
+1. Freeware
+Sie können die Software kostenlos verwenden. Delta Soft wird den Inhalt Ihrer Nutzung nicht überwachen (zB Websites oder Dateien verwendet).
+
+2. Verteilung von Software.
+Sie dürfen Kopien der Software machen wie Sie möchten; Gibt exakte Kopien der ursprünglichen SOFTWARE an jeden; und verteil die SOFTWARE in unveränderter Form auf elektronischem Wege. 
+Sie können keine Gebühren für die Kopie oder der Nutzung der Software selbst fragen. Sie dürfen nicht in irgendeiner Weise, die Software selbst verkaufen. 
+Ihre Verteilung der SOFTWARE gibt gein Anspruch auf Entschädigung von Delta Soft.
+
+3. BESCHRÄNKUNGEN
+3.1 Sie dürfen die Software nicht zurückentwickeln, dekompilieren oder disassemblieren.
+3.2 Sie dürfen die SOFTWARE nicht vermieten, verleasen, order verleihen.
+3.3 Sie dürfen die SOFTWARE nicht verwenden, um jede unbefugte Weitergabe von Informationen oder für illegale Zwecke durchzuführen.
+
+4. KEINE GARANTIE
+Delta Soft-lehnt ausdrücklich jegliche Gewährleistung für die SOFTWARE. DIE SOFTWARE und die zugehörige Dokumentation WIRD "WIE SIE IST" OHNE JEGLICHE GARANTIE, WEDER AUSDRÜCKLICH 
+ODER IMPLIZIT, EINSCHLIESSLICH DER STILLSCHWEIGENDEN GEWÄHRLEISTUNG ODER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK ODER NICHTVERLETZUNG. DAS GESAMTE RISIKO AUS DER VERWENDUNG ODER DER 
+LEISTUNG DER SOFTWARE LIEGT BEI IHNEN.
+
+#
+1. Freeware
+You may use the SOFTWARE without charge. Delta Soft will not monitor the content of your use (e.g., sites or files used). 
+
+2. Distribution of SOFTWARE. 
+You may make copies of the SOFTWARE as you wish; give exact copies of the original SOFTWARE to anyone; and distribute the SOFTWARE in its unmodified form via electronic means. 
+You may not charge any fees for the copy or use of the SOFTWARE itself. You must not represent in any way that you are selling the SOFTWARE itself. Your distribution of the 
+SOFTWARE will not entitle you to any compensation from Delta Soft.
+
+3. RESTRICTIONS
+3.1 You may not reverse engineer, de-compile, or disassemble the SOFTWARE.
+3.2 You may not rent, lease, or lend the SOFTWARE. 
+3.3 You may not use the SOFTWARE to perform any unauthorized transfer of information or for any illegal purpose.
+
+4. NO WARRANTIES
+Delta Soft expressly disclaims any warranty for the SOFTWARE. THE SOFTWARE AND ANY RELATED DOCUMENTATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR 
+IMPLIED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OR MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. THE ENTIRE RISK ARISING OUT OF USE OR 
+PERFORMANCE OF THE SOFTWARE REMAINS WITH YOU.
+
+#
+1. Freeware
+U mag gebruik maken van de software zonder kosten. Delta Soft zal niet toezien op de inhoud van uw gebruik (bijvoorbeeld, sites of bestanden die gebruikt worden).
+
+2. Distributie van software.
+U mag kopieën van de SOFTWARE maken wanneer u wilt; geef exacte kopieën van de originele software aan iedereen; en verspreidt de SOFTWARE in zijn originele vorm via elektronische weg.
+U mag geen geld vragen voor de kopie of het gebruik van de software zelf. U mag op geen enkele wijze de software zelf te verkopen. Uw distributie van de software zal 
+u niet het recht geven op enige vergoeding van Delta Soft.
+
+3. BEPERKINGEN
+3.1 U mag de SOFTWARE niet reverse engineeren, decompileren of disassembleren.
+3.2 U mag de SOFTWARE niet verhuren, in lease geven of uitlenen.
+3.3 U mag de SOFTWARE niet gebruiken om ongeautoriseerde overdracht van informatie of voor illegale doeleinden uit te voeren.
+
+4. GEEN GARANTIE
+Delta Soft ontkent enig garantie voor de software. DE SOFTWARE EN ALLE BIJBEHORENDE DOCUMENTATIE WORDT GELEVERD "ZOALS HET IS" ZONDER ENIGE VORM VAN GARANTIE, EXPLICIET OF 
+IMPLICIET, INCLUSIEF, MAAR NIET BEPERKT TOT DE GARANTIES OF VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL OF NIET-INBREUK. HET VOLLEDIGE RISICO VAN GEBRUIK VAN DE SOFTWARE 
+BLIJFT BIJ U.

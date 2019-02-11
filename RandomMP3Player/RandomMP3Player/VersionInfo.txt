@@ -1,0 +1,131 @@
+
+ Random MP3 Player and Copier
+
+ Version 1.7
+ Release date: 7 Februari 2014
+
+ Changes:
+ - Changed selection savelists. Now directories are saved without root making it drive independent.
+
+ Version 1.6.1
+ Release date: 12 Juli 2013
+
+ Changes:
+ - Doubleclicking the buttonarea won't minimize or maximize the dialog anymore
+
+ Version 1.6
+ Release date: 16 March 2013
+
+ Changes:
+ - Nice new Splashscreen and icon
+ - In the Ini-file the audio extensions can be set 
+
+ Version 1.5
+ Release date: 9 March 2013
+
+ Changes:
+ - List is cleared when loading a selection
+ - Add Clear list button (to uncheck list items)
+ - Doubleclicking mediaplayer in Tab MP3 Player will minimize and maximize dialog
+  
+ Version 1.4
+ Release date: 26 February 2013
+
+ Changes:
+ - Added audio filetypes to ini file
+ - Enhanced error handling
+
+ Version 1.3
+ Release date: 10 February 2013
+
+ Changes:
+ - Added About section
+ - Added Mutli language
+ - Added Auto fill list at startup
+ - Changed splashscreen and icon
+ - Added save function for checkboxes
+
+ Version 1.2
+ Release date: 25 October 2011
+
+ Changes:
+ - Added random mp3 playing
+ - Added expand tree option
+ - Fixed 64 bits bug
+
+ Version 1.1
+ Release date: 23 January 2011
+
+ Changes:
+ - Added random copier
+ - Added splashscreen
+ - Fixed drive list bug
+
+ Version 1.0
+ Release date: 19 October 2010
+
+#
+ Random MP3 Player and Copier
+
+ Versie 1.7
+ Uitgebracht op: 7 Februari 2014
+
+ Wijzigingen:
+ - De selectielijsten worden nu opgeslagen zonder rootvermelding en dus onafhankelijk van drive geworden
+
+ Versie 1.6.1
+ Uitgebracht op: 12 Juli 2013
+
+ Wijzigingen:
+ - Dubbelklik op knoppengedeelte minimaliseerd en maxiimaliseerd niet meer
+
+ Versie 1.6
+ Uitgebracht op: 16 Maart 2013
+
+ Wijzigingen:
+ - Prachtig nieuw Splashscreen en icoontje
+ - In de Ini-file kunnen de gewenste audioformaten opgegeven worden
+
+ Versie 1.5
+ Uitgebracht op: 9 Maart 2013
+
+ Wijzigingen:
+ - lijst wordt leeggemaakt bij een laad selectie actie
+ - Wis knop toegevoegd (om alles te deselecteren)
+ - Dubbelklik op de mediaspeler minimaliseerd en maximaliseerd het dialoogscherm
+ 
+ Versie 1.4
+ Uitgebracht op: 26 February 2013
+
+ Wijzigingen:
+ - audio filetypes toegevoegd aan de ini file
+ - Verbeterde foutafhandeling
+
+ Versie 1.3
+ Uitgebracht op: 10 februari 2013
+
+ Wijzigingen:
+ - Over sectie toegevoegd
+ - Meertalig toegevoegd
+ - Lijst automatisch vullen bij starten toegevoegd
+ - Splashscreen en icoontje gewijzigd
+ - Bewaarfunctie voor checkboxes toegevoegd
+
+ Versie 1.2
+ Uitgebracht op: 25 Oktober 2011
+
+ Wijzigingen:
+ - Random mp3 spelen toegevoegd
+ - Uitvouwen boom toegevoegd
+ - 64 bits bug verholpem
+
+ Versie 1.1
+ Uitgebracht op: 23 Januari 2011
+
+ Wijzigingen:
+ - Random copier toegevoegd
+ - Splashscreen toegevoegd
+ - drive lijst bug verholpen
+
+ Versie 1.0
+ Uitgebracht op: 19 Oktober 2010
